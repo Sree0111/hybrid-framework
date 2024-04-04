@@ -12,5 +12,6 @@ public class LoginUItest {
 	@Test(priority = 1)
 	public void methodTest(){
 		System.out.println("test content*****");
+		System.out.println("test");
 	}
 }
